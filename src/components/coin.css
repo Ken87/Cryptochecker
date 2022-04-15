@@ -1,0 +1,24 @@
+.coinDisplay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* background-color: rgb(230, 230, 230); */
+}
+
+.coinComponent {
+  background-color: rgb(255, 255, 255);
+  align-items: center;
+  justify-content: center;
+  width: 800px;
+  margin: 10px;
+  border-radius: 10px;
+  font-family: Roboto, "Helvetica Neue", Helvetica, Arial, 文泉驛正黑, "WenQuanYi Zen Hei", "Hiragino Sans GB", "儷黑 Pro", "LiHei Pro", "Heiti TC", 微軟正黑體, "Microsoft JhengHei UI", "Microsoft JhengHei", sans-serif;
+}
+
+.coinIcon {
+  padding-top: 20px;
+  width: 50px;
+  height: 50px;
+}
+
